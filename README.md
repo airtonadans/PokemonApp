@@ -1,19 +1,17 @@
-# Pokemon App
+#Aplicativo Pokémon
 
-Pokemon App with animations, beautiful UI and network call.
+Pokemon App com animações, bela interface do usuário e chamada de rede.
 
-## YouTube Tutorials
-### Hindi
-[Build a beautiful Pokemon App](https://youtu.be/0K3Zq3XqdAo)
-### English
-[Build a beautiful Pokemon App](https://youtu.be/yeXJqZCiwTQ)
+## Tutorial do YouTube para estudo
+### Inglês
+[Construa um belo aplicativo Pokémon](https://youtu.be/yeXJqZCiwTQ)
 
-## Screenshots
+## Capturas de tela
 
 <img src="ss2.png" height="500em" /><img src="ss.png" height="500em" />
 
 
-## Getting Started
+## Começando
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+Para obter ajuda para começar a usar o Flutter, consulte a documentação oficial
+[documentação](https://flutter.io/).
